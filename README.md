@@ -1,4 +1,8 @@
-### Hi there 👋
+### Gustavo Scarpim 👋😄
+
+[![Github Badge](https://img.shields.io/badge/-GustavoScarpim-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/GuScarpim)](https://github.com/GuScarpim)
+[![Linkedin Badge](https://img.shields.io/badge/-GustavoScarpim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavoscarpim/)](https://www.linkedin.com/in/gustavoscarpim/)
+[![Gmail Badge](https://img.shields.io/badge/-gustavoscarpim@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavoscarpim@gmail.com)](mailto:gustavoscarpim@gmail.com)
 
 <!--
 **GuScarpim/GusCarpim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
