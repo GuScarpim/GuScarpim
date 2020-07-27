@@ -7,7 +7,7 @@
 <br>
 -  💻 Cargo atual: <b>Dev. FrontEnd JR</b>.
 
--  ⚡ Conhecimentos: ReactJs (Hooks && Class Component) | React Native | JavaScript | NextJs (SSR) | VueJs | NodeJs | .Net Core | Styled Components | MongoDB | SQL Server | API's
+-  ⚡ Conhecimentos: ReactJs (Hooks && Class Component) | React Native | JavaScript | NextJs (SSR) | VueJs | NodeJs | .Net Core | Styled Components | MongoDB | SQL Server | Criação de API's
 
 -  :books: Conhecimentos acadêmicos: Java, Java Web (JSP), MySQL.
 
