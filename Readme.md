@@ -4,8 +4,6 @@
 [![Github Badge](https://img.shields.io/badge/-GuScarpim-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/GuScarpim)](https://github.com/GuScarpim)
 [![Linkedin Badge](https://img.shields.io/badge/-GustavoScarpim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavoscarpim/)](https://www.linkedin.com/in/gustavoscarpim/)
 [![Gmail Badge](https://img.shields.io/badge/-gustavoscarpim@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavoscarpim@gmail.com)](mailto:gustavoscarpim@gmail.com)
-[![Website shields.io](https://img.shields.io/website-RocketSeat-down-green-red/http/shields.io.svg)](https://app.rocketseat.com.br/me/gustavoscarpim/)
-
 <br>
 -  💻 Cargo atual: <b>Dev. FrontEnd JR</b>.
 
