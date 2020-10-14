@@ -1,4 +1,4 @@
-### Gustavo Scarpim 👋😄
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 😄 Gustavo Scarpim 
 
 [![Website shields.io](https://img.shields.io/website-ReactJs-down-green-red/http/shields.io.svg)](https://guscarpim.github.io/Portfolio/)
 [![Github Badge](https://img.shields.io/badge/-GuScarpim-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/GuScarpim)](https://github.com/GuScarpim)
