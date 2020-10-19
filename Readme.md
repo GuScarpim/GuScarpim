@@ -1,29 +1,17 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 😄 Gustavo Scarpim 
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 😄 Gustavo Scarpim <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
-[![Website shields.io](https://img.shields.io/website-ReactJs-down-green-red/http/shields.io.svg)](https://guscarpim.github.io/Portfolio/)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-6633cc?style=flat-square&logo=Elixir&logoColor=white&color=black&link=https://guscarpim.github.io/Portfolio/)](https://guscarpim.github.io/Portfolio/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/GustavoScarpim/)](https://www.linkedin.com/in/GustavoScarpim/)
+[![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-6633cc?style=flat-square&logo=Whatsapp&logoColor=white&color=black&link=https://whats.link/eduardojose)](https://api.whatsapp.com/send?phone=5511960625389&text=Ol%C3%A1%2C%20Gustavo!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&color=black&link=mailto:gustavoscarpim@gmail.com)](mailto:gustavoscarpim@gmail.com)
+[![RocketSeat Badge](https://img.shields.io/badge/-RocketSeat-6633cc?style=flat-square&logo=Polymer-Project&logoColor=white&color=black&link=https://app.rocketseat.com.br/me/gustavoscarpim)](https://app.rocketseat.com.br/me/gustavoscarpim)
 [![Github Badge](https://img.shields.io/badge/-GuScarpim-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/GuScarpim)](https://github.com/GuScarpim)
-[![Linkedin Badge](https://img.shields.io/badge/-GustavoScarpim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavoscarpim/)](https://www.linkedin.com/in/gustavoscarpim/)
-[![Gmail Badge](https://img.shields.io/badge/-gustavoscarpim@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavoscarpim@gmail.com)](mailto:gustavoscarpim@gmail.com)
-<br>
+
+
 -  💻 Cargo atual: <b>Dev. FrontEnd JR</b>.
 
 -  ⚡ Conhecimentos: ReactJs (Hooks && Class Component) | React Native | JavaScript | NextJs (SSR) | VueJs | NodeJs | .Net Core | Styled Components | MongoDB | SQL Server | Criação de API's | 🐧 Linux
 
 -  :books: Conhecimentos acadêmicos: Java, Java Web (JSP), MySQL.
-
-<!--
-**GuScarpim/GusCarpim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
