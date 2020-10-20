@@ -7,11 +7,22 @@
 [![RocketSeat Badge](https://img.shields.io/badge/-RocketSeat-6633cc?style=flat-square&logo=Polymer-Project&logoColor=white&color=black&link=https://app.rocketseat.com.br/me/gustavoscarpim)](https://app.rocketseat.com.br/me/gustavoscarpim)
 [![Github Badge](https://img.shields.io/badge/-GuScarpim-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/GuScarpim)](https://github.com/GuScarpim)
 
-
--  💻 Cargo atual: <b>Dev. FrontEnd JR</b>.
-
--  ⚡ Conhecimentos: ReactJs (Hooks && Class Component) | React Native | JavaScript | NextJs (SSR) | VueJs | NodeJs | .Net Core | Styled Components | MongoDB | SQL Server | Criação de API's | 🐧 Linux
-
--  :books: Conhecimentos acadêmicos: Java, Java Web (JSP), MySQL.
-
-
+```javascript
+  async user.index({
+    name: 'Gustavo Scarpim',
+    age: 20,
+    office: 'Dev. FrontEnd JR',
+    system_operation: '🐧 Linux',
+    city: 'São Paulo, SP',
+    stack: ['ReactJs (Hooks/Class Component)', 'React Native', 'VueJs', 'Node', 'NextJs (SSR)'],
+    preprocessor: ['Sass', 'Styled Components'],
+    database: ['MongoDB', 'SQL Server', 'MySQL'],
+    know: ['JavaScript', 'Java', '.Net', 'Java Web (JSP)']
+  });
+  
+  return response.status(201).send();
+```
+<hr>
+<h1 align="center">
+<img alt="GuScarpim" src="https://github-readme-stats.codestackr.vercel.app/api?username=guscarpim&show_icons=true&hide_border=true&theme=dark" />
+</h1>
