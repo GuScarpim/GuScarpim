@@ -8,8 +8,6 @@
 [![RocketSeat Badge](https://img.shields.io/badge/-RocketSeat-6633cc?style=flat-square&logo=Polymer-Project&logoColor=white&color=black&link=https://app.rocketseat.com.br/me/gustavoscarpim)](https://app.rocketseat.com.br/me/gustavoscarpim)
 [![Github Badge](https://img.shields.io/badge/-GuScarpim-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/GuScarpim)](https://github.com/GuScarpim)
 
-
-
 ```javascript
   async user.index({
     name: 'Gustavo Scarpim',
@@ -25,12 +23,10 @@
   
   return response.status(201).send();
 ```
+
 <hr>
-
 <dl align="center">
-    <dt><img align="" height="190px" alt="GuScarpim" src="https://github-readme-stats.codestackr.vercel.app/api?username=guscarpim&show_icons=true&hide_border=true&theme=dark" />
-  <img align="" height="190px" alt="GuScarpim" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guscarpim&layout=compact&theme=dark" /></dt>
-
+  <img align="" height="190px" alt="GuScarpim" src="https://github-readme-stats.codestackr.vercel.app/api?username=guscarpim&show_icons=true&hide_border=true&theme=dark" />
 </dl>
 
 
