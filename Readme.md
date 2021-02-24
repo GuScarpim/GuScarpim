@@ -26,12 +26,14 @@
 
 <hr>
 <dl align="center">
-  <img align="" height="150px" alt="GuScarpim" src="https://github-readme-stats.codestackr.vercel.app/api?username=guscarpim&show_icons=true&hide_border=true&theme=dark" />
+  <img height="190px" alt="GuScarpim" src="https://github-readme-streak-stats.herokuapp.com/?user=guscarpim&hide_border=true&theme=dark" />
 </dl>
 <hr>
 <dl align="center">
-<img height="190px" alt="GuScarpim" src="https://github-readme-streak-stats.herokuapp.com/?user=guscarpim&hide_border=true&theme=dark" />
+   <img align="" height="150px" alt="GuScarpim" src="https://github-readme-stats.codestackr.vercel.app/api?username=guscarpim&show_icons=true&hide_border=true&theme=dark" />
 </dl>
+
+
 
 
 
