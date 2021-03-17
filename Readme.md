@@ -33,6 +33,7 @@
    <img align="" height="150px" alt="GuScarpim" src="https://github-readme-stats.codestackr.vercel.app/api?username=guscarpim&show_icons=true&hide_border=true&theme=dark" />
 </dl>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&&margin-w=20&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
