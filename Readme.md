@@ -33,12 +33,6 @@
    <img align="" height="150px" alt="GuScarpim" src="https://github-readme-stats.codestackr.vercel.app/api?username=guscarpim&show_icons=true&hide_border=true&theme=dark" />
 </dl>
 
-<hr>
-
-<div align="center" >
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&row=1&column=8&margin-w=20&theme=onedark" />
-</div>
-
 
 
 
