@@ -11,7 +11,7 @@
 ```javascript
   async user.index({
     name: 'Gustavo Scarpim',
-    age: 20,
+    age: 21,
     office: 'Dev. FrontEnd JR',
     system_operation: '🐧 Linux',
     city: 'São Paulo, SP',
