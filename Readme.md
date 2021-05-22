@@ -30,7 +30,7 @@
 </dl>
 <hr>
 <dl align="center">
-   <img align="" height="150px" alt="GuScarpim" src="https://github-readme-stats.codestackr.vercel.app/api?username=guscarpim&show_icons=true&hide_border=true&theme=dark" />
+   <img align="" height="150px" alt="GuScarpim" src="https://github-readme-stats.vercel.app/api?username=guscarpim&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&hide_border=true&theme=dark" />
 </dl>
 
 
