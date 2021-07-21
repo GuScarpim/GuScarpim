@@ -12,7 +12,7 @@
   async user.index({
     name: 'Gustavo Scarpim',
     age: 21,
-    office: 'Dev. FrontEnd JR',
+    office: 'Dev. FrontEnd PL',
     system_operation: '🐧 Linux',
     city: 'São Paulo, SP',
     stack: ['ReactJs (Hooks/Class Component)', 'Typescript', 'React Native', 'VueJs', 'NextJs (SSR)'],
