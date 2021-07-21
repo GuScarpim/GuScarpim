@@ -15,10 +15,10 @@
     office: 'Dev. FrontEnd PL',
     system_operation: '🐧 Linux',
     city: 'São Paulo, SP',
-    stack: ['ReactJs (Hooks/Class Component)', 'Typescript', 'React Native', 'VueJs', 'NextJs (SSR)'],
+    stack: ['ReactJs (Hooks/Class Component)', 'Typescript', 'NextJs (SSR)', 'ContexAPI', 'Redux'],
     preprocessor: ['Sass', 'Styled Components'],
     database: ['MongoDB', 'SQL Server', 'MySQL'],
-    know: ['JavaScript', 'Java', '.Net', 'Java Web (JSP)', 'Node']
+    know: ['JavaScript', 'Java', '.Net', 'Java Web (JSP)', 'Node', 'VueJs', 'React Native']
   });
   
   return response.status(201).send();
