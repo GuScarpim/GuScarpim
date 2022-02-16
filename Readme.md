@@ -18,7 +18,7 @@
     stack: ['ReactJs (Hooks/Class Component)', 'Typescript', 'NextJs (SSR)', 'ContextAPI', 'Redux'],
     preprocessor: ['Sass', 'Styled Components'],
     database: ['MongoDB', 'SQL Server', 'MySQL'],
-    know: ['JavaScript', '.Net', 'Node', 'VueJs', 'React Native', 'UX', 'UI']
+    know: ['JavaScript', '.Net', 'Node', 'VueJs', 'React Native', 'UX', 'UI', 'Adobe XD']
   });
   
   return response.status(201).send();
