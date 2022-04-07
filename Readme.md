@@ -9,7 +9,7 @@
 [![Github Badge](https://img.shields.io/badge/-GuScarpim-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/GuScarpim)](https://github.com/GuScarpim)
 
 ```javascript
-  async user.index({
+  user.index({
     name: 'Gustavo Scarpim',
     age: 22,
     office: 'Dev. FrontEnd',
