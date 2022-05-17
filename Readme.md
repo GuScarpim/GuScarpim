@@ -33,6 +33,11 @@
    <img align="center" height="150px" alt="GuScarpim" src="https://github-readme-stats.vercel.app/api?username=guscarpim&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&hide_border=true&theme=dark" />
 </dl>
 
+## Total de Visitas no perfil 16/05/2022 :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/guscarpim/count.svg" />
+ </p>
+
 
 
 
