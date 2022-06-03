@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 😄 Gustavo Scarpim <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"> 
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> 😄 Gustavo Scarpim <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px" height="30px"> 
 
 
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-6633cc?style=flat-square&logo=Elixir&logoColor=white&color=black&link=https://gustavoscarpim.com)](https://gustavoscarpim.com)
@@ -13,12 +13,12 @@
     name: 'Gustavo Scarpim',
     age: 22,
     office: 'Dev. FrontEnd',
-    system_operation: '🐧 Linux', 'Windows',
+    system_operation: '🐧 Linux (Ubuntu)', 'Windows',
     city: 'São Paulo, SP',
-    stack: ['ReactJs (Hooks/Class Component)', 'Typescript', 'NextJs (SSR)', 'ContextAPI', 'Redux'],
+    stack: ['ReactJs (Hooks/Class Component)', 'NextJs', 'Typescript', 'JavaScript', 'ContextAPI', 'Redux'],
     preprocessor: ['Sass', 'Styled Components'],
     database: ['MongoDB', 'SQL Server', 'MySQL'],
-    know: ['JavaScript', '.Net', 'Node', 'VueJs', 'React Native', 'UX', 'UI', 'Adobe XD']
+    know: ['Node', 'VueJs', 'UX', 'UI', 'Adobe XD']
   });
   
   return response.status(201).send();
