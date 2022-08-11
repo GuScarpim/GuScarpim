@@ -18,7 +18,7 @@
     city: 'São Paulo, SP',
     stack: ['ReactJs (Hooks/Class Component)', 'NextJs', 'Typescript', 'JavaScript', 'ContextAPI', 'Redux'],
     preprocessor: ['Sass', 'Styled Components'],
-    database: ['MongoDB', FireBase, 'SQL Server', 'MySQL'],
+    database: ['MongoDB', 'FireBase', 'SQL Server', 'MySQL'],
     know: ['Node', 'VueJs', 'UX', 'UI', 'Adobe XD', 'Figma']
   });
   
