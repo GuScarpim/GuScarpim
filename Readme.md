@@ -11,7 +11,7 @@
 ```javascript
   user.index({
     name: 'Gustavo Scarpim',
-    age: 22,
+    age: 23,
     office: 'Dev. FrontEnd',
     university_graduate: 'Computer science',
     system_operation: '🐧 Linux (Ubuntu)', 'Windows',
