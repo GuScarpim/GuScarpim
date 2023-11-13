@@ -11,8 +11,8 @@
 ```javascript
   user.index({
     name: 'Gustavo Scarpim',
-    age: 23,
-    office: 'Dev. FrontEnd',
+    age: 24,
+    office: 'Dev. FrontEnd Sr.',
     university_graduate: 'Computer science',
     system_operation: '🐧 Linux (Ubuntu)', 'Windows',
     city: 'São Paulo, SP',
