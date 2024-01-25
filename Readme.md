@@ -13,11 +13,11 @@
     name: 'Gustavo Scarpim',
     age: 24,
     office: 'Dev. FrontEnd Sr.',
-    university_graduate: 'Computer science',
+    university_graduate: ['Computer science', 'Dev. FullStack'],
     system_operation: '🐧 Linux (Ubuntu)', 'Windows',
     city: 'São Paulo, SP',
-    stack: ['ReactJs (Hooks/Class Component)', 'NextJs', 'Typescript', 'JavaScript', 'ContextAPI', 'Redux'],
-    preprocessor: ['Sass', 'Styled Components'],
+    stack: ['ReactJs (Hooks/Class Component)', 'NextJs', 'React Native', 'Typescript', 'JavaScript', 'ContextAPI', 'Redux'],
+    preprocessor: ['Sass', 'Styled Components', 'Tailwind'],
     database: ['MongoDB', 'FireBase', 'SQL Server', 'MySQL'],
     know: ['Node', 'VueJs', 'UX', 'UI', 'Adobe XD', 'Figma']
   });
