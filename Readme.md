@@ -16,7 +16,8 @@
     university_graduate: ['Computer science', 'Dev. FullStack'],
     system_operation: '🐧 Linux (Ubuntu)', 'Windows',
     city: 'São Paulo, SP',
-    stack: ['React (Hooks/Class Component)', 'Next', 'React Native', 'Typescript', 'JavaScript', 'ContextAPI', 'Redux', 'Jest', 'Cypress'],
+    stack: ['React (Hooks/Class Component)', 'Next', 'Angular', 'Vue',
+    'React Native', 'Typescript', 'JavaScript', 'ContextAPI', 'Redux', 'Jest', 'Cypress'],
     preprocessor: ['Sass', 'Styled Components', 'Tailwind'],
     database: ['MongoDB', 'FireBase', 'SQL Server', 'MySQL'],
     know: ['Node', 'Vue', 'Angular', 'UX', 'UI', 'Adobe XD', 'Figma']
