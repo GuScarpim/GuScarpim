@@ -11,16 +11,16 @@
 ```javascript
   user.index({
     name: 'Gustavo Scarpim',
-    age: 24,
+    age: 25,
     office: 'Dev. FrontEnd Sr.',
     university_graduate: ['Computer science', 'Dev. FullStack'],
     system_operation: '🐧 Linux (Ubuntu)', 'Windows',
     city: 'São Paulo, SP',
-    stack: ['React (Hooks/Class Component)', 'Next', 'Angular', 'Vue',
+    stack: ['React (Hooks/Class Component)', 'Next', 'Angular', 'Vue', 'Angular', 'Node',
     'React Native', 'Typescript', 'JavaScript', 'ContextAPI', 'Redux', 'Jest', 'Cypress'],
     preprocessor: ['Sass', 'Styled Components', 'Tailwind'],
     database: ['MongoDB', 'FireBase', 'SQL Server', 'MySQL'],
-    know: ['Node', 'Vue', 'Angular', 'UX', 'UI', 'Adobe XD', 'Figma']
+    know: ['UX', 'UI', 'Adobe XD', 'Figma']
   });
   
   return response.status(201).send();
