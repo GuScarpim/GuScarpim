@@ -26,7 +26,7 @@
   return response.status(201).send();
 ```
 
-[![@guscarpim's Holopin board](https://holopin.me/guscarpim)](https://holopin.io/@guscarpim)
+[![An image of @guscarpim's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/guscarpim)](https://holopin.io/@guscarpim)
 
 <hr>
 <dl align="center">
