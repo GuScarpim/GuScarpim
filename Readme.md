@@ -3,7 +3,6 @@
 
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-6633cc?style=flat-square&logo=Elixir&logoColor=white&color=black&link=https://gustavoscarpim.com)](https://gustavoscarpim.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/GustavoScarpim/)](https://www.linkedin.com/in/GustavoScarpim/)
-[![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-6633cc?style=flat-square&logo=Whatsapp&logoColor=white&color=black&link=https://whats.link/eduardojose)](https://api.whatsapp.com/send?phone=5511960625389&text=Ol%C3%A1%2C%20Gustavo!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&color=black&link=mailto:gustavoscarpim@gmail.com)](mailto:gustavoscarpim@gmail.com)
 [![RocketSeat Badge](https://img.shields.io/badge/-RocketSeat-6633cc?style=flat-square&logo=Polymer-Project&logoColor=white&color=black&link=https://app.rocketseat.com.br/me/gustavoscarpim)](https://app.rocketseat.com.br/me/gustavoscarpim)
 [![Github Badge](https://img.shields.io/badge/-GuScarpim-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/GuScarpim)](https://github.com/GuScarpim)
