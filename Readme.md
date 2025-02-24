@@ -13,7 +13,7 @@
     name: 'Gustavo Scarpim',
     age: 25,
     office: 'Dev. FrontEnd Sr.',
-    university_graduate: ['Computer science', 'Dev. FullStack'],
+    university_graduate: ['Computer science', 'Dev. FullStack', 'Software Architecture'],
     system_operation: '🐧 Linux (Ubuntu)', 'Windows',
     city: 'São Paulo, SP',
     stack: ['React (Hooks/Class Component)', 'Next', 'Angular', 'Vue', 'Angular', 'Node',
