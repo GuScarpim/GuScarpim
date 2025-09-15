@@ -15,11 +15,11 @@
     university_graduate: ['Computer science', 'Dev. FullStack', 'Software Architecture'],
     system_operation: '🐧 Linux (Ubuntu)', 'Windows',
     city: 'São Paulo, SP',
-    stack: ['React (Hooks/Class Component)', 'Next', 'Angular', 'Vue', 'Angular', 'Node',
+    stack: ['React (Hooks/Class Component)', 'Next', 'Nuxt', 'Angular', 'Vue', 'Svelte', 'Magento', 'Node',
     'React Native', 'Typescript', 'JavaScript', 'ContextAPI', 'Redux', 'Jest', 'Cypress'],
     preprocessor: ['Sass', 'Styled Components', 'Tailwind'],
     database: ['MongoDB', 'FireBase', 'SQL Server', 'MySQL'],
-    know: ['UX', 'UI', 'Adobe XD', 'Figma']
+    know: ['UX', 'UI', 'Figma']
   });
   
   return response.status(201).send();
