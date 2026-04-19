@@ -13,13 +13,13 @@
     age: 26,
     office: 'Tech Lead - FrontEnd',
     university_graduate: ['Computer science', 'Dev. FullStack', 'Software Architecture', 'IA to devs'],
-    system_operation: '🐧 Linux (Ubuntu)', 'Windows',
+    system_operation: '🐧 Linux (Ubuntu)', 'Windows', 'macOS',
     city: 'São Paulo, SP',
     stack: ['React (Hooks/Class Component)', 'Next', 'Nuxt', 'Angular', 'Vue', 'Svelte', 'Node',
-    'React Native', 'Typescript', 'JavaScript', 'ContextAPI', 'Redux', 'Jest', 'Cypress'],
-    preprocessor: ['Sass', 'Styled Components', 'Tailwind'],
-    database: ['MongoDB', 'FireBase', 'SQL Server', 'MySQL'],
-    know: ['UX', 'UI', 'Figma']
+    'React Native', 'Typescript', 'JavaScript', 'Redux', 'Jest', 'Cypress', 'python'...],
+    preprocessor: ['Sass', 'Styled Components', 'Tailwind'...],
+    database: ['MongoDB', 'FireBase', 'SQL Server', 'MySQL'...],
+    know: ['UX', 'UI', 'Figma'...]
   });
   
   return response.status(201).send();
