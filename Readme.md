@@ -11,7 +11,7 @@
   user.index({
     name: 'Gustavo Scarpim',
     age: 26,
-    office: 'Tech Lead - FrontEnd',
+    office: 'Tech Lead - FrontEnd, Teacher',
     university_graduate: ['Computer science', 'Dev. FullStack', 'Software Architecture', 'IA to devs'],
     system_operation: '🐧 Linux (Ubuntu)', 'Windows', 'macOS',
     city: 'São Paulo, SP',
